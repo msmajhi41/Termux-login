@@ -12,7 +12,7 @@ def menu():
            print("\033[1;93m")
            print(" \033[1;92m  MS MAJHI')")
            print("\033[1;93m")
-           print("  <───────[ Assalamu-Alaikum ]───────>")
+           print("  <───────[ ITISHREE ]───────>")
            print("")
            try:
                 x = str(input('\033[1;92mUsername \033[1;93m: '))
