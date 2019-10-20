@@ -1,5 +1,5 @@
-#Bismillah
-#Assalamu-Alaikium
+
+
 
  [+] Information :
 
@@ -12,7 +12,7 @@
    use termux otherwise if you dont enter user and pass
    this script will close your termux app. so hope you like
    that .in futere i will make this script more secure/
-   insha allah.
+   insha alla
 
    Termux-Login-v1.2 
 
